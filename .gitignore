@@ -1,0 +1,9 @@
+# build output
+questhud
+questhud.exe
+main.exe
+*.o
+*.obj
+
+# local save file (your progress is yours, not the repo's)
+questhud_save.txt
