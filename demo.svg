@@ -1,118 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="780" height="625" viewBox="0 0 780 625" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace">
-  <rect width="780" height="625" rx="8" fill="#0d1117" stroke="#30363d"/>
-  <circle cx="24" cy="22" r="5" fill="#ff5f57"/>
-  <circle cx="42" cy="22" r="5" fill="#febc2e"/>
-  <circle cx="60" cy="22" r="5" fill="#28c840"/>
-  <text x="390.0" y="26" text-anchor="middle" font-size="12" fill="#8b949e">questhud - terminal</text>
-  <text y="58" font-size="13">
-<tspan x="18" fill="#7ee787" font-weight="bold">$ </tspan>
-<tspan x="33.6" fill="#c9d1d9">questhud add B &quot;Learn C++ pointers&quot;</tspan>
-</text>
-<text y="79" font-size="13">
-<tspan x="18" fill="#7ee787">  + Quest added: </tspan>
-<tspan x="150.6" fill="#f0f6fc" font-weight="bold">Learn C++ pointers</tspan>
-<tspan x="291.0" fill="#8b949e">  [B - HARD, +50 XP]</tspan>
-</text>
-<text y="100" font-size="13">
-<tspan x="18" fill="#7ee787" font-weight="bold">$ </tspan>
-<tspan x="33.6" fill="#c9d1d9">questhud add A &quot;Ship quest-hud v1.0&quot;</tspan>
-</text>
-<text y="121" font-size="13">
-<tspan x="18" fill="#7ee787">  + Quest added: </tspan>
-<tspan x="150.6" fill="#f0f6fc" font-weight="bold">Ship quest-hud v1.0</tspan>
-<tspan x="298.79999999999995" fill="#8b949e">  [A - EPIC, +100 XP]</tspan>
-</text>
-<text y="142" font-size="13">
-<tspan x="18" fill="#7ee787" font-weight="bold">$ </tspan>
-<tspan x="33.6" fill="#c9d1d9">questhud add D &quot;Touch grass&quot;</tspan>
-</text>
-<text y="163" font-size="13">
-<tspan x="18" fill="#7ee787">  + Quest added: </tspan>
-<tspan x="150.6" fill="#f0f6fc" font-weight="bold">Touch grass</tspan>
-<tspan x="236.39999999999998" fill="#8b949e">  [D - SIDE QUEST, +10 XP]</tspan>
-</text>
-<text y="184" font-size="13">
-<tspan x="18" fill="#7ee787" font-weight="bold">$ </tspan>
-<tspan x="33.6" fill="#c9d1d9">questhud done 3</tspan>
-</text>
-<text y="205" font-size="13">
-<tspan x="18" fill="#7ee787" font-weight="bold">  QUEST CLEARED: </tspan>
-<tspan x="150.6" fill="#c9d1d9">Touch grass</tspan>
-<tspan x="236.39999999999998" fill="#7ee787">  +10 XP</tspan>
-</text>
-<text y="226" font-size="13">
-<tspan x="18" fill="#7ee787" font-weight="bold">$ </tspan>
-<tspan x="33.6" fill="#c9d1d9">questhud done 1</tspan>
-</text>
-<text y="247" font-size="13">
-<tspan x="18" fill="#7ee787" font-weight="bold">  QUEST CLEARED: </tspan>
-<tspan x="150.6" fill="#c9d1d9">Learn C++ pointers</tspan>
-<tspan x="291.0" fill="#7ee787">  +50 XP</tspan>
-</text>
-<text y="289" font-size="13">
-<tspan x="18" fill="#e3b341" font-weight="bold">  *** LEVEL UP! You are now LVL 2 ***</tspan>
-</text>
-<text y="331" font-size="13">
-<tspan x="18" fill="#7ee787" font-weight="bold">$ </tspan>
-<tspan x="33.6" fill="#c9d1d9">questhud list</tspan>
-</text>
-<text y="352" font-size="13">
-<tspan x="18" fill="#f0f6fc" font-weight="bold">  PLAYER </tspan>
-<tspan x="88.2" fill="#e3b341">LVL 2</tspan>
-<tspan x="127.2" fill="#c9d1d9">   XP </tspan>
-<rect x="174.0" y="342" width="156.0" height="13" rx="2" fill="#21262d"/>
-<rect x="174.0" y="342" width="15.6" height="13" rx="2" fill="#3fb950"/>
-<tspan x="336.0" fill="#c9d1d9">10/100</tspan>
-<tspan x="382.8" fill="#f85149" font-weight="bold">   STREAK x1</tspan>
-</text>
-<text y="394" font-size="13">
-<tspan x="18" fill="#39c5cf" font-weight="bold">  -- QUEST LOG --------------------------------</tspan>
-</text>
-<text y="415" font-size="13">
-<tspan x="18" fill="#f0f6fc" font-weight="bold">  #1 </tspan>
-<tspan x="57.0" fill="#39c5cf"> [B] </tspan>
-<tspan x="96.0" fill="#8b949e">✔ Learn C++ pointers</tspan>
-<tspan x="252.0" fill="#8b949e">  (HARD +50 XP)</tspan>
-<tspan x="369.0" fill="#7ee787">   CLEARED</tspan>
-</text>
-<text y="436" font-size="13">
-<tspan x="18" fill="#f0f6fc" font-weight="bold">  #2 </tspan>
-<tspan x="57.0" fill="#d2a8ff"> [A] </tspan>
-<tspan x="96.0" fill="#7ee787">◈ </tspan>
-<tspan x="111.6" fill="#c9d1d9">Ship quest-hud v1.0</tspan>
-<tspan x="259.79999999999995" fill="#8b949e">  (EPIC +100 XP)</tspan>
-<tspan x="384.59999999999997" fill="#e3b341">   ACTIVE</tspan>
-</text>
-<text y="457" font-size="13">
-<tspan x="18" fill="#f0f6fc" font-weight="bold">  #3 </tspan>
-<tspan x="57.0" fill="#8b949e"> [D] </tspan>
-<tspan x="96.0" fill="#8b949e">✔ Touch grass</tspan>
-<tspan x="197.39999999999998" fill="#8b949e">  (SIDE QUEST +10 XP)</tspan>
-<tspan x="361.19999999999993" fill="#7ee787">   CLEARED</tspan>
-</text>
-<text y="499" font-size="13">
-<tspan x="18" fill="#7ee787" font-weight="bold">$ </tspan>
-<tspan x="33.6" fill="#c9d1d9">questhud stats</tspan>
-</text>
-<text y="520" font-size="13">
-<tspan x="18" fill="#39c5cf" font-weight="bold">  -- PLAYER CARD ------------------------------</tspan>
-</text>
-<text y="541" font-size="13">
-<tspan x="18" fill="#f0f6fc" font-weight="bold">  LEVEL     </tspan>
-<tspan x="111.6" fill="#e3b341">2</tspan>
-</text>
-<text y="562" font-size="13">
-<tspan x="18" fill="#f0f6fc" font-weight="bold">  XP        </tspan>
-<rect x="111.6" y="552" width="234.0" height="13" rx="2" fill="#21262d"/>
-<rect x="111.6" y="552" width="23.4" height="13" rx="2" fill="#3fb950"/>
-<tspan x="351.6" fill="#c9d1d9">10/100  (total 60)</tspan>
-</text>
-<text y="583" font-size="13">
-<tspan x="18" fill="#f0f6fc" font-weight="bold">  QUESTS    </tspan>
-<tspan x="111.6" fill="#c9d1d9">2 cleared / 3 total</tspan>
-</text>
-<text y="604" font-size="13">
-<tspan x="18" fill="#f0f6fc" font-weight="bold">  STREAK    </tspan>
-<tspan x="111.6" fill="#f85149">1 day</tspan>
-</text>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="780" height="625" viewBox="0 0 780 625" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace">
+<rect width="780" height="625" rx="8" fill="#0d1117" stroke="#30363d"/>
+<circle cx="24" cy="22" r="5" fill="#ff5f57"/>
+<circle cx="42" cy="22" r="5" fill="#febc2e"/>
+<circle cx="60" cy="22" r="5" fill="#28c840"/>
+<text x="390.0" y="26" text-anchor="middle" font-size="12" fill="#8b949e">questhud - terminal</text>
+<text y="58" font-size="13"><tspan x="18.0" fill="#7ee787" font-weight="bold">$ </tspan><tspan x="33.7" fill="#c9d1d9">questhud add B &quot;Learn C++ pointers&quot;</tspan></text>
+<text y="79" font-size="13"><tspan x="18.0" fill="#7ee787">  + Quest added: </tspan><tspan x="151.1" fill="#f0f6fc" font-weight="bold">Learn C++ pointers</tspan><tspan x="292.1" fill="#8b949e">  [B - HARD, +50 XP]</tspan></text>
+<text y="100" font-size="13"><tspan x="18.0" fill="#7ee787" font-weight="bold">$ </tspan><tspan x="33.7" fill="#c9d1d9">questhud add A &quot;Ship quest-hud v1.0&quot;</tspan></text>
+<text y="121" font-size="13"><tspan x="18.0" fill="#7ee787">  + Quest added: </tspan><tspan x="151.1" fill="#f0f6fc" font-weight="bold">Ship quest-hud v1.0</tspan><tspan x="299.9" fill="#8b949e">  [A - EPIC, +100 XP]</tspan></text>
+<text y="142" font-size="13"><tspan x="18.0" fill="#7ee787" font-weight="bold">$ </tspan><tspan x="33.7" fill="#c9d1d9">questhud add D &quot;Touch grass&quot;</tspan></text>
+<text y="163" font-size="13"><tspan x="18.0" fill="#7ee787">  + Quest added: </tspan><tspan x="151.1" fill="#f0f6fc" font-weight="bold">Touch grass</tspan><tspan x="237.2" fill="#8b949e">  [D - SIDE QUEST, +10 XP]</tspan></text>
+<text y="184" font-size="13"><tspan x="18.0" fill="#7ee787" font-weight="bold">$ </tspan><tspan x="33.7" fill="#c9d1d9">questhud done 3</tspan></text>
+<text y="205" font-size="13"><tspan x="18.0" fill="#7ee787" font-weight="bold">  QUEST CLEARED: </tspan><tspan x="151.1" fill="#c9d1d9">Touch grass</tspan><tspan x="237.2" fill="#7ee787">  +10 XP</tspan></text>
+<text y="226" font-size="13"><tspan x="18.0" fill="#7ee787" font-weight="bold">$ </tspan><tspan x="33.7" fill="#c9d1d9">questhud done 1</tspan></text>
+<text y="247" font-size="13"><tspan x="18.0" fill="#7ee787" font-weight="bold">  QUEST CLEARED: </tspan><tspan x="151.1" fill="#c9d1d9">Learn C++ pointers</tspan><tspan x="292.1" fill="#7ee787">  +50 XP</tspan></text>
+<text y="289" font-size="13"><tspan x="18.0" fill="#e3b341" font-weight="bold">  *** LEVEL UP! You are now LVL 2 ***</tspan></text>
+<text y="331" font-size="13"><tspan x="18.0" fill="#7ee787" font-weight="bold">$ </tspan><tspan x="33.7" fill="#c9d1d9">questhud list</tspan></text>
+<rect x="174.6" y="342" width="156.6" height="13" rx="2" fill="#21262d"/><rect x="174.6" y="342" width="15.7" height="13" rx="2" fill="#3fb950"/>
+<text y="352" font-size="13"><tspan x="18" fill="#f0f6fc" font-weight="bold">  PLAYER </tspan><tspan x="88.5" fill="#e3b341">LVL 2</tspan><tspan x="127.6" fill="#c9d1d9">   XP </tspan><tspan x="337.2" fill="#c9d1d9">10/100</tspan><tspan x="384.2" fill="#f85149" font-weight="bold">   STREAK x1</tspan></text>
+<text y="394" font-size="13"><tspan x="18.0" fill="#39c5cf" font-weight="bold">  -- QUEST LOG --------------------------------</tspan></text>
+<text y="415" font-size="13"><tspan x="18.0" fill="#f0f6fc" font-weight="bold">  #1 </tspan><tspan x="57.1" fill="#39c5cf"> [B] </tspan><tspan x="96.3" fill="#8b949e">✔ Learn C++ pointers</tspan><tspan x="252.9" fill="#8b949e">  (HARD +50 XP)</tspan><tspan x="370.3" fill="#7ee787">   CLEARED</tspan></text>
+<text y="436" font-size="13"><tspan x="18.0" fill="#f0f6fc" font-weight="bold">  #2 </tspan><tspan x="57.1" fill="#d2a8ff"> [A] </tspan><tspan x="96.3" fill="#7ee787">◈ </tspan><tspan x="112.0" fill="#c9d1d9">Ship quest-hud v1.0</tspan><tspan x="260.7" fill="#8b949e">  (EPIC +100 XP)</tspan><tspan x="386.0" fill="#e3b341">   ACTIVE</tspan></text>
+<text y="457" font-size="13"><tspan x="18.0" fill="#f0f6fc" font-weight="bold">  #3 </tspan><tspan x="57.1" fill="#8b949e"> [D] </tspan><tspan x="96.3" fill="#8b949e">✔ Touch grass</tspan><tspan x="198.1" fill="#8b949e">  (SIDE QUEST +10 XP)</tspan><tspan x="362.5" fill="#7ee787">   CLEARED</tspan></text>
+<text y="499" font-size="13"><tspan x="18.0" fill="#7ee787" font-weight="bold">$ </tspan><tspan x="33.7" fill="#c9d1d9">questhud stats</tspan></text>
+<text y="520" font-size="13"><tspan x="18.0" fill="#39c5cf" font-weight="bold">  -- PLAYER CARD ------------------------------</tspan></text>
+<text y="541" font-size="13"><tspan x="18.0" fill="#f0f6fc" font-weight="bold">  LEVEL     </tspan><tspan x="112.0" fill="#e3b341">2</tspan></text>
+<rect x="112.0" y="552" width="234.9" height="13" rx="2" fill="#21262d"/><rect x="112.0" y="552" width="23.5" height="13" rx="2" fill="#3fb950"/>
+<text y="562" font-size="13"><tspan x="18" fill="#f0f6fc" font-weight="bold">  XP        </tspan><tspan x="352.9" fill="#c9d1d9">10/100  (total 60)</tspan></text>
+<text y="583" font-size="13"><tspan x="18.0" fill="#f0f6fc" font-weight="bold">  QUESTS    </tspan><tspan x="112.0" fill="#c9d1d9">2 cleared / 3 total</tspan></text>
+<text y="604" font-size="13"><tspan x="18.0" fill="#f0f6fc" font-weight="bold">  STREAK    </tspan><tspan x="112.0" fill="#f85149">1 day</tspan></text>
 </svg>
